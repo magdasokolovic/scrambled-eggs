@@ -7,3 +7,6 @@
 7. Created 6 folders which are inside src folder. 
 8. Pulled and pushed changed to my repository.
 9. Added first svg image to images/icons folder.
+10. Moved the rest of svg images to icons folder using * sign. 
+11. Moved CSS, images, JavaScript, font files to separated solders. Added and commited changes.
+
