@@ -4,4 +4,4 @@
 4. Created this README.md file.
 5. Added and commited changes. 
 6. Created folder src. Added and commited the change
-
+7. Created 6 folders which are inside src folder. 
