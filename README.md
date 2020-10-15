@@ -6,3 +6,4 @@
 6. Created folder src. Added and commited the change
 7. Created 6 folders which are inside src folder. 
 8. Pulled and pushed changed to my repository.
+9. Added first svg image to images/icons folder.
